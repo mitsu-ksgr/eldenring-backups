@@ -3,6 +3,8 @@ EldenRing Backups
 
 The EldenRing save data backup manager written by Qt 5.
 
+![ss](ss/ss.png)
+
 
 ### Features
 - Quick backup / restore.
@@ -20,7 +22,7 @@ The EldenRing save data backup manager written by Qt 5.
 
 #### Clone this repository
 ```
-git clone git@github.com:mitsu-ksgr/eldenring-backups
+git clone git@github.com:mitsu-ksgr/eldenring-backups.git
 ```
 
 
