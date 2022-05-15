@@ -50,6 +50,7 @@ HEADERS += \
 FORMS += \
         res/mainwindow.ui
 
+RC_ICONS = res/icon/icon.ico
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

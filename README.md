@@ -45,3 +45,8 @@ $ qmake ../
 $ make
 ```
 
+
+### Thanks
+- Icon from [いらすとや](https://www.irasutoya.com/)
+
+
